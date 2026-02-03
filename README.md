@@ -1,10 +1,15 @@
 # random-code
 
+## Shortest Path Comparison
 ## Bellman-Ford Example
 
 Run the sample program:
 
 ```bash
+python shortest_paths.py
+```
+
+Default graph:
 python bellman_ford.py
 ```
 
@@ -23,6 +28,14 @@ source = 0
 Sample output:
 
 ```
+Bellman-Ford results
+Shortest distances from the source:
+  0: 0
+  1: 5
+  2: 4
+  3: 7
+
+Dijkstra results
 Shortest distances from the source:
   0: 0
   1: 5
