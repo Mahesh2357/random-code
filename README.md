@@ -1,6 +1,7 @@
 # random-code
 
 ## Shortest Path Comparison
+## Bellman-Ford Example
 
 Run the sample program:
 
@@ -9,6 +10,10 @@ python shortest_paths.py
 ```
 
 Default graph:
+python bellman_ford.py
+```
+
+Sample input:
 
 ```python
 graph = {
